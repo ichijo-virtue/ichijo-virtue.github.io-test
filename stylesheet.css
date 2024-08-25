@@ -21,7 +21,7 @@ a {
 /* ここからCSSを書いていきましょう */
 /*--- common ---*/
 .container {
-  width: 1170px;
+  width: 1500px;
   margin: 0 auto;
 }
 
